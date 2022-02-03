@@ -1,0 +1,6 @@
+model.hdf5
+data/
+.ipynb_checkpoints
+test/
+train/
+test_predictions.csv
