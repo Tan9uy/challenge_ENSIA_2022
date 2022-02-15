@@ -3,4 +3,6 @@ data/
 .ipynb_checkpoints
 test/
 train/
+svm/
+clean/
 test_predictions.csv
