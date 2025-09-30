@@ -1,6 +1,6 @@
 Trash Classification Challenge 🗑️📸
 
-This project was developed as part of a machine learning competition co-organized by ENS’IA (AI Club) and Neovision [challenge page](https://neovision.fr/challenge-ensia-neovision-2022/).
+This project was developed as part of a machine learning competition co-organized by ENS’IA (AI Club) and Neovision ([challenge page](https://neovision.fr/challenge-ensia-neovision-2022/)).
 
 🏆 Competition Overview
 
